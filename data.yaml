@@ -1,0 +1,13 @@
+train: /content/yolov7/train/images
+val: /content/yolov7/valid/images
+test: /content/yolov7/test/images
+
+nc: 1
+names: ["fiber"]
+
+roboflow:
+  workspace: microplastics-sihae
+  project: micro-v7xhj
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/microplastics-sihae/micro-v7xhj/dataset/1
