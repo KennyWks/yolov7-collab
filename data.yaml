@@ -1,6 +1,6 @@
-train: /content/yolov7/train/images
-val: /content/yolov7/valid/images
-test: /content/yolov7/test/images
+train: /content/yolov7-collab/train/images
+val: /content/yolov7-collab/valid/images
+test: /content/yolov7-collab/test/images
 
 nc: 1
 names: ["fiber"]
